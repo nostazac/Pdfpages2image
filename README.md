@@ -6,14 +6,14 @@ This Python script converts PDF files into images and saves them in a designated
 
 1. **Installation**: Clone the repository and install dependencies.
    ```sh
-   git clone https://github.com/nostazac/Pdfpages2image.git
+   git clonemhttps://github.com/nostazac/Pdfpages2image.git
    cd Pdfpages2image
    pip install -r requirements.txt
 
 Setup: Place your PDF files in the input_pdfs directory.
 Run the Script:
 
-    python pdf_to_image.py
+    python pdfToImage.py
   
 Images will be saved in the output_images directory.
 
@@ -32,7 +32,10 @@ Contributing
 
 License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT Licens
+See LICENSE for details.
 
-See LICENSE for details.ContactFor support or questions, contact [isalwaofficialmail@gmail.com].
+Contact
+For support or questions, contact isalwaofficialmail@gmail.com.
+
 Happy converting!
